@@ -1,0 +1,9 @@
+tensorflow
+fastapi
+pydantic
+pickle
+uvicorn
+nest_asyncio
+googletrans
+numpy
+sys
